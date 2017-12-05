@@ -1,0 +1,26 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+#box {
+	margin-top: 200px;	
+	
+	width: 60%;
+	margin-left: 20%;
+}
+
+
+p{
+	font-family: 'Slabo 27px', serif;
+	font-size: 22px;
+	color: white;
+}
+
+h1, h3 {
+	font-family: 'Slabo 27px', serif;
+}
+
+
+
